@@ -21,6 +21,9 @@ Linksd to templates and CSS:
 
 ### Overview:
 
+BCrypt will hash you password when creating an account with username and password information.
+This should not be used in any application, and is for learning purposes.
+
 Create a server to protect a secret recipe by requiring users to sign up for an account and log in.
 
 - Create a database.
